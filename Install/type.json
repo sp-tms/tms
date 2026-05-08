@@ -1,0 +1,7 @@
+{
+	"app_type" : "tms",
+	"name" : "Transport Management System",
+	"description" : "Transport Management System",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-tms/tms"
+}
